@@ -9,7 +9,7 @@ public class CartTest extends TestBase{
 	@Test
 	public void verifyAddToCartFunctionality() {
 		login();
-//		System.out.println("STEP - Add element to the cart");
+		System.out.println("STEP - Add element to the cart");
 //		dashboardPage.addElementToCart("ZARA COAT 3");
 //		
 //		dashboardPage.isAddedToCartMessageDisplayed();
